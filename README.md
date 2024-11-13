@@ -9,8 +9,8 @@ I'm a Full-Stack Developer focusing on C# and Vue.js. Currently I'm working at <
 🌎 Front-end Web with Vue.js <br>
 🛠️ Azure DevOps and Azure Portal 
 
-🌱 I’m currently learning ...
-- [Integração e Entrega Contínua com Azure DevOps usando Docker, Kubernetes, Infraestrutura como Código (IaC) e Database](https://www.udemy.com/course/azurepipelines/?couponCode=SKILLS4SALEB) to improvement my DevOps skills.
+<!--🌱 I’m currently learning ...
+- [Integração e Entrega Contínua com Azure DevOps usando Docker, Kubernetes, Infraestrutura como Código (IaC) e Database](https://www.udemy.com/course/azurepipelines/?couponCode=SKILLS4SALEB) to improvement my DevOps skills.-->
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellbbretzke/)](https://www.linkedin.com/in/gabriellbbretzke/) 
